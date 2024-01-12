@@ -1,4 +1,4 @@
-BE33 MODULE INTERFACED WITH THE STM32 MICROCONTROLLER, RBA5D2X (ruggudboard), AND AHT25 SENSOR SENDING DATA TO THE RIGHTECH CLOUD.
+**BE33 MODULE INTERFACED WITH THE STM32 MICROCONTROLLER, RBA5D2X (ruggudboard), AND AHT25 SENSOR SENDING DATA TO THE RIGHTECH CLOUD.**
          
 STAGE 1: Communicating the BE33 Module with the USB to TTL converter and sending the data to another BE33 module.
 STAGE 2: Bord to Board communication with the BE33 MODULE and sending data to another board.
